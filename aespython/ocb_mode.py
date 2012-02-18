@@ -4,6 +4,8 @@
 #     Pawel Krawczyk (http://ipsec.pl)
 # Parts based on C implementation by:
 #     Ted Krovetz (tdk@acm.org)
+# Port to pythonaes:
+#     Guillaume Horel
 #
 # Licensed under GNU General Public License (GPL)
 # Version 2, June 1991
